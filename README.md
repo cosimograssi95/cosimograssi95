@@ -1,8 +1,14 @@
 ## 👋 Hi there, I'm Cosimo, welcome to my GitHub!
 
-I am a passionate Power Platform Architect, working professionally in IT Consulting.
+I love to research very niche and nerdy topics about the Power Platform and I hope you can find something interesting 😄.
 
-I love to research very niche and nerdy topics and I hope you can find something interesting 😄.
+---
+### 🧑‍💻 About Me
+
+- 💼 Currently working as a Power Platform Architect  
+- 🧠 Love learning about low-code/no-code and automation  
+- 🗣️ Strong believer in mentorship and community collaboration  
+- 🌍 Based in Italy 🇮🇹
 
 ---
 
